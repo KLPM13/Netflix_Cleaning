@@ -8,6 +8,7 @@ Netflix Data Cleaning Summary
 6. Split genres into multiple columns for clarity.
 7. Removed leading/trailing spaces from all text fields.
 8. Put data value in its proper column.
+   
    we can see here that the input is not on the right column(Rating)
   ![image](https://github.com/user-attachments/assets/ed74def8-2858-4fcc-b5f5-4dd135bbd388)
   after the cleaning process we put the data in its designated column and fill the blank cells in Rating column.
