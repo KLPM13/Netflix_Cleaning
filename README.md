@@ -7,4 +7,4 @@ Netflix Data Cleaning Summary
 5. Split genres into multiple columns for clarity.
 6. Removed leading/trailing spaces from all text fields.
 
-Tools used: Excel functions (TRIM, PROPER, IF, TEXT TO COLUMNS, REGEXREPLACE), Remove Duplicate, Create Filter, Split Text To Collumn
+Tools used: Excel functions (TRIM, PROPER, IF, TEXT TO COLUMNS, REGEXREPLACE), Remove Duplicate, Create Filter, Split Text To Collumn, Remove White Spaces
