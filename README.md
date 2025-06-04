@@ -16,7 +16,7 @@ Netflix Data Cleaning Summary
    ![image](https://github.com/user-attachments/assets/f491ffa1-7971-4b27-885e-56256c4080a6)
 
 
-4. Filled and Converted the missing and "UR" Value in rating column with "Not Rated".
+3. Filled and Converted the missing and "UR" Value in rating column with "Not Rated".
 
    Before cleaning the data:
 
@@ -30,7 +30,7 @@ Netflix Data Cleaning Summary
       ![image](https://github.com/user-attachments/assets/01b24d54-3305-4b4d-8732-42c31eb6224a)
 
 
-6. Converted date_added to proper date format.
+4. Converted date_added to proper date format.
    
 
    Before Cleaning the data the date is not in proper date format
@@ -46,9 +46,25 @@ Netflix Data Cleaning Summary
 
 
 
-8. Standardized text in type, rating, and listed_in columns using PROPER and TRIM.
-9. Split genres into multiple columns for clarity.
-10. Removed leading/trailing spaces & inconsistent from all text fields.
+5. Standardized text in type, rating, and listed_in columns using PROPER and TRIM.
+
+   
+6. Split genres into multiple columns for clarity.
+
+
+   Before cleaning the data we can see here the column "listed In" which is confusing.
+
+   
+   ![image](https://github.com/user-attachments/assets/40e153d7-782a-482f-bdbe-87219d91bf6a)
+
+
+   After the we cleaned the data we rename the column with "Genre", and split it with different column
+
+
+   ![image](https://github.com/user-attachments/assets/a999e0d4-19b0-4b32-b9cc-85b9de3b83e3)
+
+
+7. Removed leading/trailing spaces & inconsistent from all text fields.
 
     
    We can see here that the country have coma(,) in front.
@@ -65,7 +81,7 @@ Netflix Data Cleaning Summary
 
 
          
-11. Put data value in its proper column.
+8. Put data value in its proper column.
 
    
    we can see here that the input is not on the right column(Rating)
