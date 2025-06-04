@@ -6,7 +6,8 @@ Netflix Data Cleaning Summary
    before the cleaning process the data have a lot of null/blank values.
 
    
-   ![image](https://github.com/user-attachments/assets/3a022b5c-3005-4edb-888f-6aacc976ce0d)
+   ![image](https://github.com/user-attachments/assets/5634585e-1323-4cd9-aff1-6b001602ec43)
+
 
    
    after cleaning we fill the blank values with "Unknown".
