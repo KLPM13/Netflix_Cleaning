@@ -86,13 +86,15 @@ Netflix Data Cleaning Summary
    we can see here that the input is not on the right column(Rating)
 
    
-  ![image](https://github.com/user-attachments/assets/ed74def8-2858-4fcc-b5f5-4dd135bbd388)
+  ![image](https://github.com/user-attachments/assets/69ec3256-62cd-46e0-bb51-47eeefc24085)
+
 
   
   after the cleaning process we put the data in its designated column and fill the blank cells in Rating column.
 
   
-  ![image](https://github.com/user-attachments/assets/f06c6ab0-2b7b-4aa1-8df6-d42d52051dd1)
+  ![image](https://github.com/user-attachments/assets/0672b777-a1fa-4e12-b7b7-ddbb1c4afd46)
+
 
 
 
